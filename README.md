@@ -2,6 +2,7 @@
 This project is a Gradio-based web application that extracts transcripts from YouTube videos and provides options for summarization or translation using Google's Gemini AI models.
 
 FEATURES
+
 Extracts transcripts from YouTube videos.
 
 Summarizes or translates the extracted transcript.
@@ -13,6 +14,7 @@ Allows users to select AI models (gemini-2.0-flash, gemini-2.0-flash-lite, gemin
 User-friendly web interface powered by Gradio.
 
 INSTALLATION
+
 Prerequisites
 
 Ensure you have Python 3.8+ installed on your system.
@@ -20,6 +22,7 @@ Ensure you have Python 3.8+ installed on your system.
 Clone the Repository
 
 git clone https://github.com/yourusername/your-repository.git
+
 cd your-repository
 
 Install Dependencies
@@ -47,7 +50,9 @@ DEPENDENCIES
 The project requires the following libraries:
 
 gradio
+
 google-generativeai
+
 youtube-transcript-api
 
 Install them using:
@@ -67,3 +72,7 @@ Commit your changes
 Create a pull request
 
 Enjoy using the YouTube Video Transcript Summarizer & Translator!
+
+![Ekran görüntüsü 2025-03-21 095620](https://github.com/user-attachments/assets/3f0c0c8e-a002-41f0-bfa6-62d446d942fc)
+
+
